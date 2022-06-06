@@ -1,12 +1,3 @@
-# Welcome to ShopPoint! ✨
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://shoppingpoint.herokuapp.com/)&nbsp;![Made with love in Nepal](https://madewithlove.now.sh/np?heart=true)
-
-**Project Link** - ***https://shoppoint.herokuapp.com/***
-
-![screenshot](image/home.PNG)
-
-## Features and Functionalities 😃
 
 **User features**
 
@@ -27,19 +18,6 @@
 - Esewa payment integration (Nepali payment gateway)
 - Database seeder (products, users, reviews, & orders)
 
-**New features (Added)**
-
-- Print User orders as pdf
-- Print UserList as pdf
-- Print OrderList as pdf
-
-**Admin features**
-
-- Product management
-- User management
-- Order management
-- Order details page
-- Mark orders as delivered option
 
 ## Tech Stack 💻
 
@@ -51,14 +29,7 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Redux](https://redux.js.org/)
 
-## API :man_technologist:
-
-- [PayPal API](https://developer.paypal.com/)
-- [Esewa API](https://developer.esewa.com.np)
-- [Send Grid API](https://sendgrid.com/)
-- [Cloudinary API](https://cloudinary.com/)
-
-## Installation :zap:
+## Installation
 
 **1. Clone this repo by running the following command :-**
 
@@ -124,6 +95,4 @@ cd client
 yarn start
 ```
 
-**5.** **🎉 Open your browser and go to `https://localhost:3000`**
-
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
+**Project Link** - ***https://shoppoint.herokuapp.com/***
